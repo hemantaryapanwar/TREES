@@ -33,7 +33,7 @@ void main()
         insert(&ptr,num);
     }
 
-    //getch();
+    
     printf("\nINORDER TRAVERSAL\n");
     inorder(ptr);
 
