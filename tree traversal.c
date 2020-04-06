@@ -22,7 +22,6 @@ void main()
     ptr->data=NULL;
     clrscr();
 
-    printf("\nProgram for Tree Traversal\n");
     printf("Enter the number of nodes to add to the tree.<BR>\n");
     scanf("%d",&no);
 
